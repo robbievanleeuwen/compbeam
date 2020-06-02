@@ -3,7 +3,7 @@ from setuptools import setup
 
 
 def description_text():
-    return 'Composite beam design to AS/NZS2327-2017.'
+    return 'Composite beam design to AS/NZS 2327-2017.'
 
 
 def readme():

@@ -1,1 +1,1 @@
-composite beam design to as/nzs2327-2017
+composite beam design to as/nzs 2327-2017
